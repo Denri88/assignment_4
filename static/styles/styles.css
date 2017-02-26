@@ -1,0 +1,11 @@
+body {
+	background: whitesmoke;
+}
+
+.friends {
+	color:green;
+}
+
+#friends-list {
+	text-decoration: none;
+}
